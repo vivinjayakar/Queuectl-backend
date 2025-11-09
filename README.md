@@ -62,5 +62,4 @@ mvn clean package -DskipTests
 java -jar target/queuectl-0.0.1-SNAPSHOT.jar
 
 
-## ⚙️ System Flow  
 
